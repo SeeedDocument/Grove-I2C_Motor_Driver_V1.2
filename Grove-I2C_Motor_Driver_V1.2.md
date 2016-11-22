@@ -3,7 +3,7 @@ title: Grove - I2C Motor Driver V1.2
 category: Actuator
 bzurl: https://www.seeedstudio.com/twig-i2c-motor-driver-p-907.html
 oldwikiname:  Grove - I2C Motor Driver V1.2
-prodimagename: Grove-Finger-clip_Heart_Rate_Sensor.jpg
+prodimagename: I2CMotorDriver-2.jpg
 surveyurl: https://www.research.net/r/Grove-I2C_Motor_Driver_V1-2
 sku:  105020001
 ---
